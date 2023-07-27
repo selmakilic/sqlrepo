@@ -347,4 +347,4 @@ author (yazar adı)
 genre (kitap türü)
 publication_year (yayın yılı)
 Bu tablodan "genre" alanı "Romance" olan ve "publication_year" alanı 2000 yılından sonra olan kitapları listeleyen SQL sorgusunu yazınız.
-*/
+*/hgnn
